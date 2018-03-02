@@ -1,0 +1,1 @@
+#http://python.astrotech.io/sredniozaawansowany/django.html
