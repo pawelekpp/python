@@ -1,0 +1,2 @@
+*ocropus
+*python-tesseract
